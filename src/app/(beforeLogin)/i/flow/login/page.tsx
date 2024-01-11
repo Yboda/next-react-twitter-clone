@@ -1,3 +1,3 @@
 export default function Login() {
-  return <main>Login page</main>;
+  return <main>로그인 모달</main>;
 }
