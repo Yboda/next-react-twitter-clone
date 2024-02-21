@@ -8,8 +8,10 @@ export default function NavMenu() {
   const segment = useSelectedLayoutSegment();
   
   const me = {
-    // 임시로 내 정보 있는것처럼
-    id: 'zerohch0',
+    // 임시
+    id: 'princeDDU',
+    nickname: 'prince',
+    image: '/5Udwvqim.jpg',
   };
 
   return (
